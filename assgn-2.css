@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    width: 700px;
+    margin: auto;
+    padding-top: 20px;
+}
+fieldset{
+    border: 2px solid black;
+}
+form h1{
+    text-align: center;
+    border: 2px solid black;
+    margin: 20px;
+}
+label{
+    float: left;
+    margin-right: 300px;
+    margin-left: 100px;
+    margin-top: 30px
+}
+/* input{
+    margin-left: 250px;
+} */
+textarea{
+    margin-left: 250px;
+    margin-top: -30px;
+}
+.number input{
+    margin-left: 250px;
+    margin-bottom: -20px;
+}
+.s-1{
+    margin-top: 30px;
+}
+/* label{
+    border: 2px solid black;
+    padding: 20px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 500px;
+    margin-left: 100px;
+    width: 200px;
+}
+input{
+    background-color: white;
+    float: right;
+    width: 200px;
+    margin-top: -40px;
+    margin-right: 250px;
+}
+textarea{
+    float: right;
+    width: 200px;
+    padding-top: 20px;
+    margin-top: -65px;
+    margin-right: 250px;
+}
+.s-1 input{
+    margin-top: 50px;
+} */
+/* .gender .g-1 input{
+    float: left; 
+    margin-left: 300px;
+}
+.g-2 input{
+    float: left;
+    margin-left: 300px;
+}
+.gender .g-1 p{
+    float: left;
+    margin-top: -52px;
+    margin-left: 420px;
+} */
